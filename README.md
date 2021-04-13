@@ -1,5 +1,4 @@
 
-https://zealous-hoover-304c2a.netlify.app/
 
 # Recipe App
 
